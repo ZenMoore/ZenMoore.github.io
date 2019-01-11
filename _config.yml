@@ -1,0 +1,41 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+filter: 'category'
+
+# 作者信息
+author: 
+  name: ZenMoore
+  email: wzk1057398161@qq.com
+  zhihu: https://www.zhihu.com/people/ZenMoore
+  github: https://github.com/ZenMoore
+  Sina Weibo: http://weibo.com/JavcMak
+  Sourceforge: http://sourceforge.net/zenmoo
+
+# 站点信息
+title: ZenMooreIO
+description: Running for Times and Beauty.
+url: zenmoore.github.io
+email: wzk1057398161@qq.com
+github: ZenMoore
+# rss_url: /pages/atom.xml
+
+# Social account
+# twitter:  username
+weibo:    JavcMak
+github:   ZenMoore
+# codepen:  username
+# dribbble: username
+
+# avatar头像及Favicon
+avatar: /assets/img/avatar.jpg
+favicon: /assets/img/favicon.ico
+
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
