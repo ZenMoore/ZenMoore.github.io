@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019-1-11-DasAlgo_Analysis(Java)_第一章_引论
+title: DasAlgo-Analysis(Java) 第一章 引论
 categories: DasAlgo
 tags: DasAlgo
 ---
