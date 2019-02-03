@@ -16,9 +16,11 @@ tags: DasAlgo
   (b)T_1(N)*T_2(N)=O(f(N)*g(N))<br>
 (2)如果T(N)是一个k次多项式，则T(N)=\Cita(N^k)<br>(3)对任意常数k，log^k{N}=O(N)
 4. 通过极限确定两个函数的相对增长率。
+
 ```math
 lim_{N\to\infty}{\frac{f(N)}{g(N)}}
 ```
+
 - 极限是0，f(N)=o(g(N))
 - 极限是c!=0,f(N)=\Theta(g(N))
 - 极限是\infty,g(N)=o(f(N))
