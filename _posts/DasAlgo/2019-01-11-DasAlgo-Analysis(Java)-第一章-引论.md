@@ -10,7 +10,7 @@ tags: DasAlgo
 1. 选择问题和字谜问题。
 2. 系列公式：
 
-```math
+```
 
 (0) log 1024=10\ |\  log1048576=20
 
@@ -75,6 +75,7 @@ public static <T extends Comparable<? super T>>...
 ```
 
 (7)对泛型的限制：a.基本类型不能用作类型参数; b.instanceof 检测和类型转换只对原始类型进行; c.static 语境; d.泛型类型的实例化 e.泛型数组对象 f.参数化类型的数组
+
 8. 函数对象：没有数据只有一个方法的类的实例化，一个函数通过将其放在一个对象内部而被传递。函数对象的意义在于进行方法的传递。<br>
 
 Written by [ZenMoore](https://github.com/ZenMoore "Github")<br>
