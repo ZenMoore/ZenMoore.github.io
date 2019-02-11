@@ -12,33 +12,33 @@ tags: DasAlgo
 
 ```
 
-(0) log 1024=10\ |\  log1048576=20
+$$(0) log 1024=10\ |\  log1048576=20$$
 
-\text{几何级数}
+$$\text{几何级数}$$
 
-(1)\ \sum_{i=0}^N{2^i}=2^{N+1}-1
+$$(1)\ \sum_{i=0}^N{2^i}=2^{N+1}-1$$
 
-(2)\ \sum_{i=0}^N{A^i}=\frac{A^{N+1}-1}{A-1}
+$$(2)\ \sum_{i=0}^N{A^i}=\frac{A^{N+1}-1}{A-1}$$
 
-(3)\ \sum_{i=0}^N{A^i}\leqslant\frac{1}{1-A}\ (0<A<1)
+$$(3)\ \sum_{i=0}^N{A^i}\leqslant\frac{1}{1-A}\ (0<A<1)$$
 
-(4)\ S=\sum_{i=0}^\infty{A^i}=\frac{1}{1-A}\ (0<A<1)\text{(证明可以使用错位相减法)}
+$$(4)\ S=\sum_{i=0}^\infty{A^i}=\frac{1}{1-A}\ (0<A<1)\text{(证明可以使用错位相减法)}$$
 
-(5)\ S=\sum_{i=1}^\infty{\frac{i}{2^i}}=2
+$$(5)\ S=\sum_{i=1}^\infty{\frac{i}{2^i}}=2$$
 
-\text{算术级数}
+$$\text{算术级数}$$
 
-(6)\ \sum_{i=1}^N{i}=\frac{N(N+1)}{2}
+$$(6)\ \sum_{i=1}^N{i}=\frac{N(N+1)}{2}$$
 
-(7)\ \sum_{i=1}^N{i^k}\approx\frac{N^{k+1}}{|k+1|}\ (k\neq -1)
+$$(7)\ \sum_{i=1}^N{i^k}\approx\frac{N^{k+1}}{|k+1|}\ (k\neq -1)$$
 
-(8)\ \sum_{i=1}^N{i^2}=\frac{N(N+1)(2N+1)}{6}\approx\frac{N^3}{3}
+$$(8)\ \sum_{i=1}^N{i^2}=\frac{N(N+1)(2N+1)}{6}\approx\frac{N^3}{3}$$
 
-\text{调和数，调和和}
+$$\text{调和数，调和和}$$
 
-(9) H_N=\sum_{i=1}^N\frac{1}{i}\approx\ln{N}
+$$(9) H_N=\sum_{i=1}^N\frac{1}{i}\approx\ln{N}$$
 
-(10) \lambda=\lim_{n->\infty}[(\sum_{k=1}^N\frac{1}{k})-\ln{N}]\approx0.57721566\text{(9 式误差趋于常数，即欧拉常数lambda)}
+$$(10) \lambda=\lim_{n->\infty}[(\sum_{k=1}^N\frac{1}{k})-\ln{N}]\approx0.57721566\text{(9 式误差趋于常数，即欧拉常数lambda)}$$
 
 ```
 
