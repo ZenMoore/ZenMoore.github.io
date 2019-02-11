@@ -7,11 +7,13 @@ I am [ZenMoore](www.github.com/ZenMoore). This Blog is after 3-Jekyll Theme.
 
 ZenMoore: Running for Times and Beauty.
 
-Tips: All mathematical formulas on this site are written in MathJax.
+Tips: Mathematical formulas are described in the MathJax language.
 
-Online Analysis：[MathJax JSBin](http://jsbin.com/?html,output)
+Online analysis: [MathJax live demo](https://www.mathjax.org/#demo)
 
-Copy the math formula (retaining the $$ on either side of the math formula) and add it to the <p></p> of the HTML edit bar on the left side of the parser.
+For large mathematical formulas, you must click on **(pre-populated jsbin) from this website**
+
+After entering, copy the math formula (retaining the $$ on both sides of the math formula) and add it to <p></p> in the HTML edit bar on the left side of the parser.
 
 ## You can find me in:<br>
 [ZhiHu: ZenMoore](https://www.zhihu.com/people/ZenMoore)<br>
